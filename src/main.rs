@@ -22,14 +22,14 @@ fn main() {
 
 }
 
-fn binToDec(mut input: String) -> u32 {
+fn bin_to_dec(mut input: String) -> u32 {
     return 0;
 }
 
-fn octToDec(mut input: String) -> u32 {
+fn oct_to_dec(mut input: String) -> u32 {
     return 0;
 }
 
-fn hexToDec(mut input: String) -> u32 {
+fn hex_to_dec(mut input: String) -> u32 {
     return 0;
 }
